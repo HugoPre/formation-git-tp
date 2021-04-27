@@ -6,3 +6,4 @@ T1
 Le site est disponible à l'adresse http://www.resanet.com/resaroute/
 >>>>>>> interface-web2
 Ajout Commit simple resarouteCopie
+Test
